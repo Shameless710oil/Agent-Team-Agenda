@@ -1,0 +1,5 @@
+{
+  "name": "Agent Team Agenda",
+  "description": "An interactive agenda app where your progress builds a robot companion. Complete tasks to assemble your bot, but neglect them and watch it decay. Stay engaged to keep your agent-building assistant happy and healthy!",
+  "requestFramePermissions": []
+}
